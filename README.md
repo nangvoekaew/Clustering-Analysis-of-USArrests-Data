@@ -22,7 +22,7 @@ The analysis includes:
 - Visualizing the resulting clusters to identify patterns and insights  
 
 ## Files in this Repository
-- `Clustering_algorithm_2211090005 (1).ipynb`: The Jupyter Notebook containing all the Python code for analysis, visualizations, and explanations.  
+- `Clustering Analysis of USArrests Data.ipynb`: The Jupyter Notebook containing all the Python code for analysis, visualizations, and explanations.  
 - `USArrests.csv`: The dataset containing crime statistics for murder, assault, rape, and urban population percentage for each U.S. state.  
 
 ## Prerequisites
